@@ -69,7 +69,7 @@ INFO:     Application startup complete.
 
 | Usuario | Contraseña | Rol |
 |---------|-----------|-----|
-| admin@sgrl.cl | Admin123! | Admin Sistema |
+| admin@sgrl.cl | Admin1234 | Admin Sistema |
 
 > Al primer login te pedirá cambiar la contraseña.
 
